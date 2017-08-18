@@ -1,0 +1,10 @@
+site_name: MkDocs Printer Theme
+site_url: http://nvotes.org
+site_description: MkDocs Printer Theme
+site_author: Eduardo Robles Elvira
+
+repo_url: https://github.com/nvotes/mkdocs-printer-theme
+
+copyright: Copyright &copy; 2017 <a href="https://nvotes.com">nVotes</a>, <a href="http://twitter.com/edulix">Eduardo Robles</a>.
+
+theme_dir: mkdocs_printer_theme
